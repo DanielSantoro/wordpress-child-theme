@@ -3,7 +3,7 @@ A template for a basic WordPress Child Theme that can be adapted to fit your nee
 
 This can be used with any theme - you just need to make the appropriate changes. For further reading and in-depth information, check out the WordPress.org Codex Page: https://codex.wordpress.org/Child_Themes and for high-level theme development, see https://codex.wordpress.org/Theme_Development.
 
-This was written by Danny Santoro (http://danielsantoro.com) because of the uncertainty around how to properly set up child themes, and also to serve as a quick tool for when he needed to create one. He's a pretty nice fellow, so feel free to say hi on Twitter: https://twitter.com/Danny_Santoro
+This was written by Danny Santoro (https://danielsantoro.com) because of the uncertainty around how to properly set up child themes, and also to serve as a quick tool for when he needed to create one. He's a pretty nice fellow, so feel free to say hi on Twitter: https://twitter.com/Danny_Santoro
 
 ## How to Use
 To use this child theme template, clone it locally and rename the folder to something memorable, even if it's just "theme-child". Then, follow the steps below:
@@ -22,7 +22,7 @@ After you've completed the above steps, take the entire child theme folder and c
 
 As long as you have a correct `style.css` sheet and folder name, your child theme should now appear in the Theme selection page of your WordPress installation.
 
-Now, you're all set up! Add code, play around, improve on the template, and have a blast. If you see ways to improve or just want to say hi/thanks, swing by http://danielsantoro.com/wordpress-child-theme-template
+Now, you're all set up! Add code, play around, improve on the template, and have a blast. If you see ways to improve or just want to say hi/thanks, swing by https://danielsantoro.com/wordpress-child-theme-template
 
 ## Organized CSS Starter Template File
 While this is originally structured as if you were starting a theme from scratch, it can be used for modifications as well. In it are different groups, sections, and subsections to keep your code orderly and clean. Note that if there is no CSS in your structured template, then it will just inherit your parent's theme files (so you don't have to worry about filling everything out).
